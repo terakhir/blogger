@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/14020288-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='blogger' name='generator'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='Gmail dot trick, Gmail trick, Gmail Generator, Email Generator, Free Gmail dot Trick Generator' name='keywords'/>
+<meta content='✅ Free Gmail dot Trick Generator is a tool to generate multiple gmail with just one address. You can use it for many things for hidden tricks ✅' name='description'/>
+<link href='https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico' rel='shortcut icon' type='image/x-icon'/>
+<link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
+<title>Free Gmail Dot Trick Generator</title>
+<link crossorigin='anonymous' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' rel='stylesheet'/>
+<link crossorigin='anonymous' href='https://use.fontawesome.com/releases/v5.0.13/css/all.css' integrity='sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp' rel='stylesheet'/>
+<style id='page-skin-1' type='text/css'><!--
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+body {
+font-family: 'Poppins', sans-serif;
+}
+.btn-success {
+background-color: #130f40;
+border: none;
+}
+.btn-success:hover {
+backround-color: #130f40 !important;
+}
+.card-footer:last-child {
+margin-top: 40px;
+}
+.card {
+box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+border: none !important;
+}
+.card-footer {
+background-color: #fff !important;
+}
+.link-color {
+color: #130f40;
+text-decoration: none;
+}
+.link-color:hover {
+color: #130f40;
+text-decoration: none;
+}
+.input-group-text {
+background-color: #130f40 !important;
+color: #fff;
+border: none;
+border-radius: 0px;
+}
+.form-control {
+border-radius: 0px;
+}
+.card-header {
+width: 94%;
+margin-left: 19px;
+}
+@media screen and (max-width: 800px) {
+.card-header {
+width: 87%;
+}
+}
+
+--></style>
+<b:skin><![CDATA[
+/****CSS CODE*****/
+]]></b:skin>
+</head>
+<body>
+  <b:section id='1'/>
+<div class='no-items section' id='1'/>
+<br/>
+<div class='col-md-6 offset-md-3'>
+<span class='anchor' id='formRegister'/>
+<!-- form card register -->
+<div class='card card-outline-secondary'>
+<div class='card-body'>
+<form autocomplete='off' class='form' role='form'>
+<div class='card-header text-white text-center' style='background-color: #130f40;'>
+<i class='fab fa-google'/>
+Gmail Dot Trick Generator
+</div>
+<div class='card-body'>
+<div class='input-group mb-3'>
+<input class='form-control' id='username' placeholder='Username' type='text'/>
+<div class='input-group-append'>
+<span class='input-group-text'>@gmail.com</span>
+</div>
+</div>
+<div class='form-group'>
+<label for='emails'>Generated Results</label>
+<label class='float-right' for='emails' id='counter'>Generated: 0</label>
+<textarea class='form-control' id='emails' rows='16'/>
+</div>
+<div class='form-group float-right'>
+<button class='btn btn-success' id='save' type='button'>
+<i class='fas fa-download'/>
+Save
+</button>
+</div>
+</div>
+<div class='card-footer text-muted text-center'>
+  Made with <i class='fa fa-heart pulse' style='color:#eb4d4b;'/> by <b><a class='link-color' href='https://www.wahib.net'>Wahib.NET</a></b>.
+</div>
+</form>
+</div>
+</div>
+</div>
+<script src='https://cdn.statically.io/gh/ez36/godang/d5ba5a8f/FileSaver.js'/>
+<script src='https://cdn.statically.io/gh/ez36/godang/d5ba5a8f/trick.js'/>
+  <script type='application/ld+json'>
+{
+  &quot;@context&quot;: &quot;https://schema.org/&quot;, 
+  &quot;@type&quot;: &quot;Product&quot;, 
+  &quot;name&quot;: &quot;Gmail Dot Trick Generator&quot;,
+  &quot;image&quot;: &quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxk9vQNnMjkfcZjihUMU2L1YV68ryWN-9x4g&quot;,
+  &quot;description&quot;: &quot;&#9989; Free Gmail dot Trick Generator is a tool to generate multiple gmail with just one address. You can use it for many things for hidden tricks &#9989;&quot;,
+  &quot;brand&quot;: &quot;Gmail Tricks&quot;,
+  &quot;sku&quot;: &quot;SKU1221&quot;,
+  &quot;aggregateRating&quot;: {
+    &quot;@type&quot;: &quot;AggregateRating&quot;,
+    &quot;ratingValue&quot;: &quot;5&quot;,
+    &quot;bestRating&quot;: &quot;5&quot;,
+    &quot;worstRating&quot;: &quot;1&quot;,
+    &quot;ratingCount&quot;: &quot;1&quot;,
+    &quot;reviewCount&quot;: &quot;1&quot;
+  },
+  &quot;review&quot;: {
+    &quot;@type&quot;: &quot;Review&quot;,
+    &quot;name&quot;: &quot;David J. Bros&quot;,
+    &quot;reviewBody&quot;: &quot;The Best Tool Ever!&quot;,
+    &quot;reviewRating&quot;: {
+      &quot;@type&quot;: &quot;Rating&quot;,
+      &quot;ratingValue&quot;: &quot;5&quot;,
+      &quot;bestRating&quot;: &quot;5&quot;,
+      &quot;worstRating&quot;: &quot;1&quot;
+    },
+    &quot;datePublished&quot;: &quot;2020-09-01&quot;,
+    &quot;author&quot;: {&quot;@type&quot;: &quot;Person&quot;, &quot;name&quot;: &quot;Wawa T. Ara&quot;},
+    &quot;publisher&quot;: {&quot;@type&quot;: &quot;Organization&quot;, &quot;name&quot;: &quot;Wahib.NET&quot;}
+  }
+}
+</script>
+</body>
+</html>
